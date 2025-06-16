@@ -55,3 +55,9 @@ This dashboard includes:
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+##  Author
+
+Gift Feateide Adipere 
+MSc Information Technology Management  
+Berlin, Germany  
